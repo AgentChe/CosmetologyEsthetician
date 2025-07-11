@@ -25,7 +25,7 @@ final class GlobalDefinitions {
     static let contactUsUrl = URL(string: "https://appslaunchpad.com/contact")!
     
     enum Paygate {
-        static let lifetime = "prep.exams.atiteashesi.lifetime"
-        static let subscription = "prep.exams.atiteashesi.monthly"
+        static let lifetime = "prep.exams.cosmetologyesthetician.lifetime"
+        static let subscription = "prep.exams.cosmetologyesthetician.monthly"
     }
 }
